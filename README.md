@@ -8,7 +8,7 @@ Modul dari latihan ini dapat di akses melalui [Modul 7 - PHP GUI](https://docs.g
 
 ### Bahasa
 
-Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu Java GUI.
+Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu PHP.
 
 ### Cara Eksekusi Kode Program
 
